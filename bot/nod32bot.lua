@@ -499,25 +499,11 @@ NOD32 Commands list :
 !filterlist
 لیست کلمات فیلتر شده
 
-11-bot number & support ^
-
-!botnumber
-دریافت شماره ربات
-
-!support
-دعوت سازنده ربات به گروه
-(در صورت وجود مشکل)
-
-!version
-ورژن ربات
-
 !feedback (text)
 ارسال نظرات به سازنده
 
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
-
-channel: @Nod32Team
 
 G00D LUCK ^_^
 ]]
