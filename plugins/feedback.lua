@@ -25,7 +25,7 @@ do
   },
   run = run
  }
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright; @mr_mamali07
+--Persian Translate; @mr_mamali07
+--ch : @assassinscreedir
 --کپی بدون ذکر منبع حرام است
